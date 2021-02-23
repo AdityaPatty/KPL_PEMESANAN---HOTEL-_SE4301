@@ -1,0 +1,5 @@
+C:\Users\Hadi\source\repos\1302190016_Luqman Hadi Sudiana_Kelompok 4\1302190016_Luqman Hadi Sudiana_Kelompok 4\obj\Debug\1302190016_Luqman Hadi Sudiana_Kelompok 4.vbprojAssemblyReference.cache
+C:\Users\Hadi\source\repos\1302190016_Luqman Hadi Sudiana_Kelompok 4\1302190016_Luqman Hadi Sudiana_Kelompok 4\obj\Debug\_1302190016_Luqman_Hadi_Sudiana_Kelompok_4.Form1.resources
+C:\Users\Hadi\source\repos\1302190016_Luqman Hadi Sudiana_Kelompok 4\1302190016_Luqman Hadi Sudiana_Kelompok 4\obj\Debug\_1302190016_Luqman_Hadi_Sudiana_Kelompok_4.Resources.resources
+C:\Users\Hadi\source\repos\1302190016_Luqman Hadi Sudiana_Kelompok 4\1302190016_Luqman Hadi Sudiana_Kelompok 4\obj\Debug\1302190016_Luqman Hadi Sudiana_Kelompok 4.vbproj.GenerateResource.cache
+C:\Users\Hadi\source\repos\1302190016_Luqman Hadi Sudiana_Kelompok 4\1302190016_Luqman Hadi Sudiana_Kelompok 4\obj\Debug\1302190016_Luqman Hadi Sudiana_Kelompok 4.vbproj.CoreCompileInputs.cache
