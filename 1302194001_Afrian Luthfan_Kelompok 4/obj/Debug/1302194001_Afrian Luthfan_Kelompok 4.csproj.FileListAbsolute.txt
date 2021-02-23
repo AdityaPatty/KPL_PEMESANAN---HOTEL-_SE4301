@@ -1,0 +1,10 @@
+C:\Users\Afrian Luthfan\source\repos\1302194001_Afrian Luthfan_Kelompok 4\bin\Debug\1302194001_Afrian Luthfan_Kelompok 4.exe.config
+C:\Users\Afrian Luthfan\source\repos\1302194001_Afrian Luthfan_Kelompok 4\bin\Debug\1302194001_Afrian Luthfan_Kelompok 4.exe
+C:\Users\Afrian Luthfan\source\repos\1302194001_Afrian Luthfan_Kelompok 4\bin\Debug\1302194001_Afrian Luthfan_Kelompok 4.pdb
+C:\Users\Afrian Luthfan\source\repos\1302194001_Afrian Luthfan_Kelompok 4\obj\Debug\1302194001_Afrian Luthfan_Kelompok 4.csprojAssemblyReference.cache
+C:\Users\Afrian Luthfan\source\repos\1302194001_Afrian Luthfan_Kelompok 4\obj\Debug\_1302194001_Afrian_Luthfan_Kelompok_4.Form1.resources
+C:\Users\Afrian Luthfan\source\repos\1302194001_Afrian Luthfan_Kelompok 4\obj\Debug\_1302194001_Afrian_Luthfan_Kelompok_4.Properties.Resources.resources
+C:\Users\Afrian Luthfan\source\repos\1302194001_Afrian Luthfan_Kelompok 4\obj\Debug\1302194001_Afrian Luthfan_Kelompok 4.csproj.GenerateResource.cache
+C:\Users\Afrian Luthfan\source\repos\1302194001_Afrian Luthfan_Kelompok 4\obj\Debug\1302194001_Afrian Luthfan_Kelompok 4.csproj.CoreCompileInputs.cache
+C:\Users\Afrian Luthfan\source\repos\1302194001_Afrian Luthfan_Kelompok 4\obj\Debug\1302194001_Afrian Luthfan_Kelompok 4.exe
+C:\Users\Afrian Luthfan\source\repos\1302194001_Afrian Luthfan_Kelompok 4\obj\Debug\1302194001_Afrian Luthfan_Kelompok 4.pdb
